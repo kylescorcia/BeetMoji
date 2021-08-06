@@ -1,0 +1,3 @@
+1) For Unfavorite Product make validation in favourite services that if product is already favourite  then it will unfavorite otherwise, it will favourite a product.
+Also give me response for both condition.
+

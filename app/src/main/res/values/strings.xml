@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BeetMoji</string>
+    <string name="simple_ime">BeetMoji</string>
+    <string name="subtype_en_US">BeetMoji</string>
+    <string name="install_emoji">How To Install And Use</string>
+    <string name="view_emojis">View Emojis</string>
+    <string name="view_emoji_long_text">You\'ve added all avaliable packs.\nKeep checking back for more !</string>
+    <string name="emoji_pack">Emoji Pack</string>
+</resources>
